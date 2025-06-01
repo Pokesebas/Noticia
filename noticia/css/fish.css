@@ -1,0 +1,211 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-size: 40px;    
+}
+
+.hola{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding:13px;
+    width: 25px;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    left: 30%;
+    top: 34px;
+}
+
+.uno{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    position: absolute;
+    padding:10px;
+    width: 25px;
+    left: 33%;
+    top: 34px;
+}
+
+.dos{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    position: absolute;
+    padding:10px;
+    width: 25px;
+    height: 50px;
+    left: 35.6%;
+    top: 34px;
+}
+
+.tres{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    position: absolute;
+    padding:10px;
+    width: 25px;
+    left: 38.2%;
+    top: 34px;
+}
+
+.adios{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    position: absolute;
+    padding:10px;
+    width: 25px;
+    height: 50px;
+    left: 40.9%;
+    top: 34px;
+}
+
+nav{
+    background-color: gray;
+    padding: 20px;
+
+    a{
+        font-size: 40px;
+        padding-left: 3% ;
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover{
+        transition: 1s;
+        padding: 1%;
+        background-color: white;
+        color: black;
+    }
+}
+
+/* main */
+
+    .meg{
+        position: absolute;
+        left: 15%;
+        top: 25%; 
+        width: 50%;
+    }
+
+
+    .ballena{
+        position: absolute;
+        left: 68%;
+        top: 25%;
+        width: 30%;
+        height: 100%;
+    }
+
+
+    .inicio{
+        position: absolute;
+        left: 15%;
+        top: 85%;
+        width: 50%;
+    }
+
+    .medio{
+        position: absolute;
+        left: 15%;
+        top: 100%;
+        width: 50%;
+    }
+
+    .final{
+        position: absolute;
+        top: 125%;
+        left: 15%;
+        width: 50%;
+
+    }
+
+
+
+
+/* Footer  */
+
+footer{
+    position: absolute;
+    top: 140%;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 20%;
+
+    h3{
+        color: white;
+        position: absolute;
+        left: 5%;
+        top: 40%;
+    }
+
+   .a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding:13px;
+    width: 25px;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    left: 78.2%;
+    top: 50px;
+   }
+
+   .d{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    width: 25px;
+    height: 40px;
+    position: absolute;
+    display: flex;
+    left: 81%;
+    top: 50px;
+   }
+
+   .i{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding:13px;
+    width: 25px;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    left: 83%;
+    top: 50px;
+   }
+
+   .o{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    width: 25px;
+    height: 40px;
+    position: absolute;
+    display: flex;
+    left: 85.8%;
+    top: 50px;
+   }
+
+   .s{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding:13px;
+    width: 25px;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    left: 87.8%;
+    top: 50px;
+   }
+
+  }
